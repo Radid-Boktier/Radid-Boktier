@@ -1,4 +1,10 @@
-## Hi there 👋
+Hi there 👋
+My name is Radid Ahammed Boktier, I'm a software developer and competitive programmer with a strong passion for problem-solving.
+
+
+- 🔭 I'm currently learning Data Structures and Algorithms (DSA) and actively improving my problem-solving skills. Alongside that, I'm also exploring the Go programming language (GoLang).
+- 👯 I’m looking to Collaborate on OpenSource Projects
+- 📫 How to reach me: boktierradid@gmail.com
 
 <!--
 **Radid-Boktier/Radid-Boktier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
