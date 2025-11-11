@@ -191,7 +191,9 @@
   <img src="https://raw.githubusercontent.com/Radid-Boktier/cf-stats-1/main/output/light_card.svg#gh-dark-mode-only" />
 </a>
 
-
+<a href="">
+  <img src="https://leetcard.jacoblin.cool/Boktier_Radid?ext=heatmap"/>
+</a>
 <!-- Codeforces Stats Card Ended-->
 
 <br/>
