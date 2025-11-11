@@ -202,7 +202,7 @@
 <div>
 
   <a href="https://codeforces.com/profile/_boktier_">
-    <img src="https://raw.githubusercontent.com/Radid-Boktier/cf-stats/main/output/max_rating.svg" alt="Codeforces Max rating" />
+    <img src="https://raw.githubusercontent.com/Radid-Boktier/cf-stats-1/main/output/max_rating.svg" alt="Codeforces Max rating" />
   </a>
 
   <!-- 
@@ -248,18 +248,13 @@
 
 <!-- Social Media Connection Section Started -->
 
-# <img src="./assets/animated emoji/handshake.gif" width="40px" align="center"> Connect with me :
+# Connect with me 
 
-</br>
+
 
 <p align="center">
-<a href = "https://www.linkedin.com/in/radidahmed/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://x.com/Radid_Boktier"><img src="./assets/logo/x.avif" width="40" height="40"/></a>
-<!-- <a href = "https://www.facebook.com/Sakib1056"><img src="https://img.icons8.com/fluency/48/undefined/facebook-new.png"/></a> -->
-<!-- <a href = "https://m.me/Sakib1056"><img src="https://img.icons8.com/fluency/48/undefined/facebook-messenger--v2.png"/></a> -->
-
-<!-- <a href = "https://www.instagram.com/s_a_k_i_b_1056/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> --> 
-
+   <a href = "https://www.linkedin.com/in/radidahmed/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+   <a href = "https://x.com/Radid_Boktier"><img src="./assets/logo/x.avif" width="40" height="40"/></a>
 </p>
 
 <!-- Social Media Connection Section Ended -->
