@@ -50,7 +50,7 @@
 
 
 
-# <img src="https://i.postimg.cc/J4nzTh7r/man-raising-hand.gif" style="padding-bottom: 10px" width="40px" align="center"> About Me
+# About Me
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" align="center"> My Latest Project : 
 
@@ -75,7 +75,7 @@
 
 <!--  Languages and Tools Section Started-->
 
-# <img src="./assets/animated emoji/rocket.gif" width="60px" align="center"> Languages and Tools :
+# Languages and Tools :
 
 </br>
 
@@ -113,7 +113,7 @@
 
 <!-- Github All Stats Start -->
 
-# <img src="./assets/animated emoji/direct_hit.gif" width="40px" align="center"> My Github Stats
+# My Github Stats
 
   <br/>
   <div align="center">
@@ -178,7 +178,7 @@
 
 <!-- Competitive Programming Section Started -->
 
-# 📈 Competitive Programming
+# Competitive Programming
 
 <br/>
 <br/>
@@ -253,15 +253,12 @@
 </br>
 
 <p align="center">
-<!-- <a href = "https://codeforces.com/profile/hafiz_sakib"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png"/></a>
-<a href = "https://www.hackerrank.com/Hafiz_Sakib?hr_r=1"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"/></a>
-<a href = "https://www.codechef.com/users/hafizsakib5"><img src="https://img.icons8.com/color/48/null/codechef.png"/></a>
-<a href = "https://leetcode.com/hafiz_Sakib/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/></a>
-<a href = "https://www.linkedin.com/in/hafiz-sakib-96b8b3229/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.facebook.com/Sakib1056"><img src="https://img.icons8.com/fluency/48/undefined/facebook-new.png"/></a>
-<a href = "https://m.me/Sakib1056"><img src="https://img.icons8.com/fluency/48/undefined/facebook-messenger--v2.png"/></a>
-<a href = "https://x.com/hafiz_sakib1"><img src="./assets/logo/x.avif" width="40" height="40"/></a>
-<a href = "https://www.instagram.com/s_a_k_i_b_1056/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> -->
+<a href = "https://www.linkedin.com/in/radidahmed/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://x.com/Radid_Boktier"><img src="./assets/logo/x.avif" width="40" height="40"/></a>
+<!-- <a href = "https://www.facebook.com/Sakib1056"><img src="https://img.icons8.com/fluency/48/undefined/facebook-new.png"/></a> -->
+<!-- <a href = "https://m.me/Sakib1056"><img src="https://img.icons8.com/fluency/48/undefined/facebook-messenger--v2.png"/></a> -->
+
+<!-- <a href = "https://www.instagram.com/s_a_k_i_b_1056/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> --> 
 
 </p>
 
