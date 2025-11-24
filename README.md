@@ -52,7 +52,7 @@
 
 # About Me
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" align="center"> My Latest Project : **[Ecommerce Website](https://github.com/Radid-Boktier/Ecommerce-project)**
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" align="center"> My Latest Project : **[Ecommerce Website](https://github.com/Radid-Boktier/Ecommerce-project/tree/main)**
 
 - <img src="./assets/animated emoji/man_juggling.gif" width="30" align="center"> I’m Currently learning **Data Structures and Algorithms (DSA) and actively improving my problem-solving skills. Alongside that, I'm also exploring the Go programming language (GoLang).**
 
