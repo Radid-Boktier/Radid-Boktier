@@ -130,9 +130,19 @@
 <p align="center">
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=radid-boktier&show_icons=true&locale=en&layout=compact" alt="radid-boktier" /></p>
   
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
+  
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=radid-boktier&theme=prussian&hide_border=false" alt="GitHub Streak Stats" width="470" />
-  </a>
+  </a> 
+
+ 
+<!-- <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+   <img
+     src="https://github-readme-streak-stats.vercel.app?user=radid-boktier&theme=prussian&hide_border=false"
+     alt="GitHub Streak Stats"
+     width="470"
+   />
+</a> -->
 </p>
 
 
@@ -256,7 +266,7 @@
 
 <p align="center">
    <a href = "https://www.linkedin.com/in/radidahmed/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-   <a href = "https://x.com/Radid_Boktier"><img src="./assets/logo/x.avif" width="40" height="40"/></a>
+   <!-- <a href = "https://x.com/Radid_Boktier"><img src="./assets/logo/x.avif" width="40" height="40"/></a> -->
 </p>
 
 <!-- Social Media Connection Section Ended -->
